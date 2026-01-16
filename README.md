@@ -228,4 +228,4 @@ The project is fully implemented and functional with:
 
 This project demonstrates a production-ready NER pipeline combining NLP, rule-based extraction, OCR, database integration, and UI-based automation, significantly reducing manual effort and improving resume screening accuracy.
 
-<img src="Screenshot 2025-12-20 234551.png" alt="NER Project Screenshot" width="800">
+<img src="Screenshot 2025-12-20 234551" alt="NER Project Screenshot" width="800">
